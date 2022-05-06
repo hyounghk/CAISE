@@ -17,6 +17,7 @@ bash run_main.sh INDEX_GPU
 INDEX_GPU is the index of the gpu you want to run the model on.
 
 
+## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
